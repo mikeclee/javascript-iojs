@@ -1,0 +1,7 @@
+# directory matching end with /
+.git/
+
+# filename ... glob style
+tmp-*
+
+# starting with ! for negate matching
